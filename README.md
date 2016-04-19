@@ -1,2 +1,2 @@
-# Trabalhos-em-C/C++
-Trabalhos feitos para a Pontificia Universidade Catolica de Minas Gerais, para o curso de Engenharia de Computação
+# Trabalhos em C/C++
+Trabalhos feitos para a PUCMinas do São Gabriel, para o curso de Engenharia de Computação.
